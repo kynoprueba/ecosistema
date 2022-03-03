@@ -1,0 +1,53 @@
+@media screen and (max-width:800px) {
+  body{
+    background-color: blue;
+  }
+}
+
+body{
+  background: rgb(3,207,255);
+  background: linear-gradient(114deg, rgba(3,207,255,1) 0%, rgba(222,117,233,1) 53%, rgba(121,9,83,1) 100%);
+
+}
+
+.div1 ,.div2, .div3, .div4{
+  height: 100vh;
+
+
+}
+
+.div1{
+  /*background-color: pink;*/
+  
+
+
+
+}
+.div2{
+  margin-top: 200px;
+  /*background: rgb(3,207,255);
+  background: linear-gradient(114deg, rgba(3,207,255,1) 0%, rgba(222,117,233,1) 53%, rgba(121,9,83,1) 100%);*/
+}
+.div3{
+  /*background-color: orange;*/
+}
+.div4{
+  /*background-color: aqua;*/
+}
+
+.responsive{
+  width: 100%;
+  height: auto;
+}
+
+.cuadro1{
+position: relative;
+top: 800px;
+left: -200px;
+  width: 200px;
+  height: 200px;
+  background-color: fuchsia;
+
+  
+}
+
