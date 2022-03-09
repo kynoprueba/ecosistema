@@ -1,12 +1,6 @@
-function estoesfuncion(){
-    console.log("uno funcion bonita");
-    return "esta es una nueva funcion mas vacana";
-
+for(let i=0;i<10;i++){
+ console.log("imprimo valor de " +i);
 }
-
-estoesfuncion();
-let nueva2=estoesfuncion
-console.log(nueva2)
 
 
 function Sumar (){
